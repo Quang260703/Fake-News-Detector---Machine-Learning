@@ -1,0 +1,1 @@
+Fake News Detector implemented using Logistic Regression, Decision Tree and Recurrent Neural Network. Achieved a performance score of 98-99% across all four metrics: precision, accuracy, recall, F1 score on all three models.
